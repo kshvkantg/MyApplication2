@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "185994952081",
+    "firebase_url": "https://my-application-29c10.firebaseio.com",
+    "project_id": "my-application-29c10",
+    "storage_bucket": "my-application-29c10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185994952081:android:c1cdc3a5a68c07a9cfee30",
+        "android_client_info": {
+          "package_name": "com.nextgenlabs.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185994952081-93jht2to6pje0h551f03rg4225ksm431.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAFnqRpWFsJdDSILBP6MDDnYzsK6rxAZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185994952081-93jht2to6pje0h551f03rg4225ksm431.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
